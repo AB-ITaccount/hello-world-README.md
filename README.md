@@ -1,2 +1,2 @@
 # hello-world-README.md
-Just another repository  
+When you are done discuss your experience and provide a screenshot of your completed repository.  
